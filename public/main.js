@@ -44,7 +44,7 @@ if (chartContainer) {
 
     Pusher.logToConsole = true;
 
-    var pusher = new Pusher('0acd06b8b5910e4bd48d', {
+    var pusher = new Pusher('REPLACE-ME-WITH-APP-KEY', {
         cluster: 'ap1'
     });
 
