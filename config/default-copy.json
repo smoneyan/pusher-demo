@@ -1,0 +1,8 @@
+{
+    "pusher": {
+        "app_id": "REPLACE-ME",
+        "app_key": "REPLACE-ME",
+        "app_secret": "REPLACE-ME",
+        "cluster": "ap1"
+    }
+}
